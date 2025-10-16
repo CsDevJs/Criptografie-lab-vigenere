@@ -57,7 +57,7 @@ def vigenere_decriptare(ciphertext, key):
 
 alegere = ""
 while alegere != "q":
-    print("\nAlege o optiunne de mai jos.")
+    print("\n----------Alege o optiunne de mai jos----------")
     print(" c - criptarea mesajului")
     print(" d - decriptarea mesajului")
     print(" q - inchidere program")
